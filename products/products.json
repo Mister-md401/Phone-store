@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "name": "iPhone 15",
+    "storage": "128GB",
+    "price": 699,
+    "currency": "USD",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "brand": "Apple",
+    "name": "iPhone 15 Pro",
+    "storage": "256GB",
+    "price": 899,
+    "currency": "USD",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "brand": "Apple",
+    "name": "iPhone 15 Pro Max",
+    "storage": "256GB",
+    "price": 999,
+    "currency": "USD",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "brand": "Samsung",
+    "name": "Galaxy S24",
+    "storage": "256GB",
+    "price": 799,
+    "currency": "USD",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "brand": "Samsung",
+    "name": "Galaxy S24 Ultra",
+    "storage": "256GB",
+    "price": 1199,
+    "currency": "USD",
+    "stock": 6
+  },
+  {
+    "id": 6,
+    "brand": "Google",
+    "name": "Pixel 9",
+    "storage": "128GB",
+    "price": 799,
+    "currency": "USD",
+    "stock": 5
+  },
+  {
+    "id": 7,
+    "brand": "Xiaomi",
+    "name": "Xiaomi 14",
+    "storage": "256GB",
+    "price": 699,
+    "currency": "USD",
+    "stock": 7
+  },
+  {
+    "id": 8,
+    "brand": "Tecno",
+    "name": "Camon 30",
+    "storage": "256GB",
+    "price": 299,
+    "currency": "USD",
+    "stock": 12
+  },
+  {
+    "id": 9,
+    "brand": "Infinix",
+    "name": "Note 40",
+    "storage": "256GB",
+    "price": 249,
+    "currency": "USD",
+    "stock": 12
+  },
+  {
+    "id": 10,
+    "brand": "Motorola",
+    "name": "Moto G Power",
+    "storage": "128GB",
+    "price": 249,
+    "currency": "USD",
+    "stock": 10
+  }
+]
